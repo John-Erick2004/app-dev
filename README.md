@@ -1,8 +1,7 @@
 # app-dev
 
 ## *MY FAVORITE SERIES*
-
-1. [Goblin](https://en.wikipedia.org/wiki/Guardian:_The_Lonely_and_Great_God)
+1. [Goblin](https://en.wikipedia.org/wiki/Guardian:_The_Lonely_and_Great_God) ![alt text](![image](https://github.com/user-attachments/assets/2cecc1b4-79b6-44bf-97ee-55b2d0991aff))
 2. [Tale of the Nine Tailed](https://en.wikipedia.org/wiki/Tale_of_the_Nine_Tailed)
 3. [You're Beautiful](https://en.wikipedia.org/wiki/You%27re_Beautiful)
 4. [Heartstrings](https://en.wikipedia.org/wiki/Heartstrings_(South_Korean_TV_series))
@@ -10,10 +9,8 @@
 6. [Love Rain](https://en.wikipedia.org/wiki/Love_Rain)
 7. [Mary Stayed Out All Night](https://en.wikipedia.org/wiki/Mary_Stayed_Out_All_Night)
 8. [Queen of Tears](https://en.wikipedia.org/wiki/Queen_of_Tears)
-   ![image](https://github.com/user-attachments/assets/9da42b92-05dd-4457-a2b6-5a93f5008a99)
-
-10. [My Girlfriend is a Gumiho](https://en.wikipedia.org/wiki/My_Girlfriend_Is_a_Gumiho)
-11. [Hometown Cha-Cha-Cha](https://en.wikipedia.org/wiki/Hometown_Cha-Cha-Cha)
+9. [My Girlfriend is a Gumiho](https://en.wikipedia.org/wiki/My_Girlfriend_Is_a_Gumiho)
+10. [Hometown Cha-Cha-Cha](https://en.wikipedia.org/wiki/Hometown_Cha-Cha-Cha)
 
 -----------------------------------------------------------------------------
 ## *MY FAVORITE MOVIES*
