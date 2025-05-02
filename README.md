@@ -10,8 +10,10 @@
 6. [Love Rain](https://en.wikipedia.org/wiki/Love_Rain)
 7. [Mary Stayed Out All Night](https://en.wikipedia.org/wiki/Mary_Stayed_Out_All_Night)
 8. [Queen of Tears](https://en.wikipedia.org/wiki/Queen_of_Tears)
-9. [My Girlfriend is a Gumiho](https://en.wikipedia.org/wiki/My_Girlfriend_Is_a_Gumiho)
-10. [Hometown Cha-Cha-Cha](https://en.wikipedia.org/wiki/Hometown_Cha-Cha-Cha)
+   ![image](https://github.com/user-attachments/assets/9da42b92-05dd-4457-a2b6-5a93f5008a99)
+
+10. [My Girlfriend is a Gumiho](https://en.wikipedia.org/wiki/My_Girlfriend_Is_a_Gumiho)
+11. [Hometown Cha-Cha-Cha](https://en.wikipedia.org/wiki/Hometown_Cha-Cha-Cha)
 
 -----------------------------------------------------------------------------
 ## *MY FAVORITE MOVIES*
